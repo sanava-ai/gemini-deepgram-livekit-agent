@@ -21,7 +21,7 @@ A basic example of a voice agent using LiveKit and Python.
 Clone the repository and install dependencies to a virtual environment:
 
 ```console
-cd voice-pipeline-agent-python
+cd gemini-deepgram-livekit-agent
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
