@@ -22,7 +22,7 @@ def prewarm(proc: JobProcess):
     proc.userdata["vad"] = silero.VAD.load()
 
 
-# An example Voice Agent using Google STT, Gemini 2.0 Flash, and Google TTS.
+# An example Voice Agent using Deepgram STT, Gemini 2.0 Flash, and Deepgram TTS.
 # Prerequisites:
 # 1. livekit-plugins-openai[vertex] package installed
 # 2. save your service account credentials and set the following environments:
@@ -30,8 +30,6 @@ def prewarm(proc: JobProcess):
 #    * GOOGLE_CLOUD_PROJECT to your Google Cloud project ID
 # 3. the following services are enabled on your Google Cloud project:
 #    * Vertex AI
-#    * Cloud Speech-to-Text API
-#    * Cloud Text-to-Speech API
 
 # Read more about authentication with Google: https://cloud.google.com/docs/authentication/application-default-credentials
 
