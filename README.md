@@ -14,7 +14,21 @@
   <a href="https://blog.livekit.io/">Blog</a>
 </p>
 
-A basic example of a voice agent using LiveKit and Python.
+This Voice AI assistant is completely free to use.⁣
+⁣
+𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞?⁣
+👉 It’s hosted on LiveKit, which offers 5,000 free minutes per month.⁣
+👉 It uses Gemini 2.0 Flash as the LLM, which is currently free.⁣
+👉 For TTS and STT, it relies on Deepgram, which provides a $200 credit that practically lasts forever—pretty cool, right?⁣
+
+It also uses LiveKit's new transformer model, which intelligently determines when a user is done speaking and when the AI can respond without unintentionally interrupting. 
+
+Unlike conventional voice agents that rely on Voice Activity Detection (VAD) models—often oblivious to the context of pauses—the transformers model takes conversational nuances into account for a smoother experience.
+⁣
+Sure, the latency and voice quality aren’t perfect, but hey, it gets the job done without costing a dime!⁣
+
+Demo here: https://www.linkedin.com/feed/update/urn:li:activity:7278023588362747904/
+⁣
 
 ## Dev Setup
 
