@@ -17,8 +17,11 @@
 This Voice AI assistant is completely free to use.⁣
 ⁣
 𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞?⁣
+
 👉 It’s hosted on LiveKit, which offers 5,000 free minutes per month.⁣</a>
+
 👉 It uses Gemini 2.0 Flash as the LLM, which is currently free.⁣</a>
+
 👉 For TTS and STT, it relies on Deepgram, which provides a $200 credit that practically lasts forever—pretty cool, right?⁣</a>
 
 It also uses LiveKit's new transformer model, which intelligently determines when a user is done speaking and when the AI can respond without unintentionally interrupting. 
